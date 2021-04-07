@@ -1,0 +1,6 @@
+print("I should've been a cowboy")
+print("I should've learned to rope and ride")
+print("Wearin' my six-shooter, ridin' my pony on a cattle drive")
+print("Stealin' the young girls' hearts")
+print("Just like Gene and Roy")
+print("Woah, I should've been a cowboy")
